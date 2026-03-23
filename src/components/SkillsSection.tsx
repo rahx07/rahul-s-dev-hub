@@ -37,9 +37,6 @@ const categories = [
     skills: [
       { name: "VS Code", level: 90 },
       { name: "MySQL", level: 70 },
-      { name: "Power BI / Tableau", level: 60 },
-      { name: "Excel (Advanced)", level: 75 },
-      { name: "Jupyter Notebook", level: 78 },
     ],
   },
   {
