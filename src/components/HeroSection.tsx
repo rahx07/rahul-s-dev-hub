@@ -3,7 +3,7 @@ import { ArrowDown, Send, Download } from "lucide-react";
 import { useEffect, useState } from "react";
 import rahulPhoto from "@/assets/rahul-photo.jpg";
 
-const roles = ["AI & ML Engineer", "Software Developer", "Problem Solver"];
+const roles = ["AI & ML Engineer", "Data Analyst", "Software Developer", "Problem Solver"];
 
 const HeroSection = () => {
   const [roleIndex, setRoleIndex] = useState(0);

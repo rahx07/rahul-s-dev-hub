@@ -1,5 +1,5 @@
 import SectionWrapper from "./SectionWrapper";
-import { ExternalLink, Mic, Utensils } from "lucide-react";
+import { ExternalLink, Mic, Utensils, BarChart3 } from "lucide-react";
 
 const projects = [
   {
@@ -13,6 +13,12 @@ const projects = [
     title: "Food Delivery Management System",
     description: "A full-stack food delivery platform with order management, database design, and real-time delivery tracking.",
     tech: ["Flask", "MySQL", "Python", "HTML/CSS"],
+  },
+  {
+    icon: BarChart3,
+    title: "Sales & Customer Analytics Dashboard",
+    description: "An end-to-end data analysis project involving EDA, data cleaning, visualization, and actionable business insights from sales datasets.",
+    tech: ["Python", "Pandas", "Matplotlib", "Power BI"],
   },
 ];
 
