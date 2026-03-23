@@ -14,12 +14,12 @@ const AboutSection = () => (
         </div>
       </div>
       <p className="text-muted-foreground leading-relaxed mb-4">
-        I'm Rahul Ranjan — an aspiring AI & ML engineer and data analyst currently pursuing my Master's in Computer Applications at Chandigarh University.
-        I'm driven by a deep curiosity about how intelligent systems work and a passion for uncovering insights from data.
+        I'm Rahul Ranjan — an aspiring AI & ML engineer currently pursuing my Master's in Computer Applications at Chandigarh University.
+        I'm driven by a deep curiosity about how intelligent systems work and a strong desire to build technology that makes a difference.
       </p>
       <p className="text-muted-foreground leading-relaxed">
-        From developing voice assistants to designing full-stack web applications and building data-driven dashboards, I love turning ideas and raw data into functional products and actionable insights.
-        When I'm not coding, you'll find me exploring the latest in machine learning research, analyzing datasets, or collaborating on open-source projects.
+        From developing voice assistants to designing full-stack web applications, I love turning ideas into functional products.
+        When I'm not coding, you'll find me exploring the latest in machine learning research or collaborating on open-source projects.
       </p>
     </div>
   </SectionWrapper>
