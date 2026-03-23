@@ -24,13 +24,11 @@ const categories = [
   },
   {
     icon: Brain,
-    label: "AI / ML / Data",
+    label: "AI / ML",
     skills: [
       { name: "ML Basics", level: 70 },
-      { name: "NumPy / Pandas", level: 72 },
+      { name: "NumPy", level: 65 },
       { name: "Neural Networks", level: 55 },
-      { name: "Data Visualization", level: 75 },
-      { name: "EDA & Statistics", level: 68 },
     ],
   },
   {
