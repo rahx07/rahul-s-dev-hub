@@ -12,6 +12,7 @@ import ParticlesBackground from "@/components/ParticlesBackground";
 
 const Index = () => (
   <div className="min-h-screen bg-background">
+    <ParticlesBackground />
     <Navbar />
     <HeroSection />
     <AboutSection />
