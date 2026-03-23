@@ -8,9 +8,11 @@ import ProjectsSection from "@/components/ProjectsSection";
 import CertificationsSection from "@/components/CertificationsSection";
 import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
+import ParticlesBackground from "@/components/ParticlesBackground";
 
 const Index = () => (
   <div className="min-h-screen bg-background">
+    <ParticlesBackground />
     <Navbar />
     <HeroSection />
     <AboutSection />
